@@ -1,7 +1,7 @@
 // ==WindhawkMod==
 // @id           legacy-sound-flyout
 // @name         Legacy Volume Tray Button
-// @description  Enables legacy sound volume flyout on Win10 taskbar
+// @description  Enables legacy sound volume tray icon on Win10 and Win11 taskbar
 // @version      1.0.0
 // @author       Lenom3242
 // @github       https://github.com/lenom3242/Legacy-Volume-Tray-Button-Windhawk
